@@ -1,0 +1,24 @@
+1. first question : why would you want to use em and rem instead of px for font-size?
+Answer : the main reasons for using rem and em :  
+            1. Accessibility - respect user preferences 
+            2. consistency in scaling 
+            3. perfect proportional relationships
+            4. better media query management
+
+
+2. second qustion: what are some instances where you might want to use vh and wh?
+Answer : these units are incredible powerful for creating responsive designs that truly adapt to screen size. the most importan use cases are :
+  1. full screen layouts && Hero sections
+  2. Background & Decorative elements
+  3. Dynamic layout & components
+  4. Responsive Typography
+
+
+
+3. what are some instances where you might want to use px instead of a relative unit?
+  Answer : some use cases are : 
+          1. border and thin lines
+          2. Fixed-size icons and Graphics
+          3. css ships and pixel Art
+        4. very small subtable Effects
+        5. Game development and Canva
